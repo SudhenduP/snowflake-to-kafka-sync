@@ -56,5 +56,6 @@ We want to create a flow that streams changes in a Snowflake table to a Kafka To
 ## References:
 [**Kafka JDBC Source Connector for Large Data - DZone**
 *In this article we are going to look at how we can use Kafka's JDBC Source Connector to query a large table/view in…*dzone.com](https://dzone.com/articles/kafka-jdbc-source-connector-for-large-data)
+
 [**Streaming Data From MySQL with Kafka Connect JDBC Source Connector**
 *Kafka Connect is an essential component of the Çiçeksepeti Data Engineering Team’s streaming pipelines. It allows us to…*medium.com](https://medium.com/cstech/streaming-data-from-mysql-with-kafka-connect-jdbc-source-connector-428f4db20b5b)
